@@ -1,0 +1,29 @@
+{
+    "SaltarPlataformas": {
+        "checkpoints": [
+            {
+                "steps": 52106,
+                "file_path": "results/SaltarPlataformas126/SaltarPlataformas/SaltarPlataformas-52106.onnx",
+                "reward": 4.93172413962228,
+                "creation_time": 1782582879.184278,
+                "auxillary_file_paths": [
+                    "results/SaltarPlataformas126/SaltarPlataformas/SaltarPlataformas-52106.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 52106,
+            "file_path": "results/SaltarPlataformas126/SaltarPlataformas.onnx",
+            "reward": 4.93172413962228,
+            "creation_time": 1782582879.184278,
+            "auxillary_file_paths": [
+                "results/SaltarPlataformas126/SaltarPlataformas/SaltarPlataformas-52106.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2"
+    }
+}

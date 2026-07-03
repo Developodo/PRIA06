@@ -1,0 +1,98 @@
+# ==========================
+# Unity generated folders
+# ==========================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# ==========================
+# Addressables
+# ==========================
+
+ServerData/
+
+# ==========================
+# Visual Studio / Rider
+# ==========================
+
+.vs/
+.vscode/
+.idea/
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Rider
+*.DotSettings.user
+
+# ==========================
+# OS files
+# ==========================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==========================
+# Crash reports
+# ==========================
+
+sysinfo.txt
+
+# ==========================
+# Generated packages
+# ==========================
+
+*.apk
+*.aab
+*.unitypackage
+
+# ==========================
+# Profiling
+# ==========================
+
+*.pid
+*.stackdump
+
+# ==========================
+# Ignore recordings
+# ==========================
+
+Recordings/
+
+# ==========================
+# JetBrains cache
+# ==========================
+
+.idea/
+
+# ==========================
+# Optional: Ignore Blender backups
+# ==========================
+
+*.blend1
+*.blend2
+
+# ==========================
+# Optional: Ignore exported builds
+# ==========================
+
+ExportedObj/
